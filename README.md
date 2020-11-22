@@ -2,6 +2,11 @@
 
 ## Project 1
 
-* Implement and test Decision Tree Classifier
-* Implement and test K Neighbors Classifier
+* Test Decision Tree Classifier
+* Test K Neighbors Classifier
 * Choose ideal hyperparameters using cross-validation
+
+## Project 2
+
+* Implement and test Linear Regressor
+* Implement and test Polynomial Regressor
