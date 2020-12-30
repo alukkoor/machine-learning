@@ -17,3 +17,9 @@
 * Implement and test One Layer Neural Network
 * Implement and test Two Layer Neural Network
 * Visualize training/validation loss and accuracy
+
+# Project 4: Tweet Classification & Clustering
+
+* Test Soft Margin Support Vector Classifier
+* Test K-Means clustering
+* Test Gaussian Mixture Model clustering
